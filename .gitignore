@@ -1,0 +1,18 @@
+# Entornos y cachés
+.venv/
+__pycache__/
+*.pyc
+
+# Secretos y configuración local
+.env
+
+# Datos personales / de sesión real (nunca deben subirse)
+context.md
+context.meta.json
+logs/
+codex_work/
+*.wav
+*.jsonl
+
+# Herramientas locales
+.claude/

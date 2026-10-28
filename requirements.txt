@@ -1,0 +1,5 @@
+PyAudioWPatch==0.2.12.9
+faster-whisper==1.2.1
+rich==15.0.0
+python-dotenv==1.2.4
+openai==3.40.0
